@@ -7,6 +7,11 @@
     padding-left: 100px;
     padding-right: 100px;
 }
+.logo{
+    height: 50px;
+    width: 150px;
+    border-radius: 50%;
+}
 
 nav.header a{
     text-decoration: none;
@@ -15,4 +20,7 @@ nav.header a{
 }
 nav.header a:hover{
     color: orange;
+}
+.text{
+    color: darkorange;
 }
